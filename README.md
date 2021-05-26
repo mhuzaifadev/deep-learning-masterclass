@@ -81,12 +81,23 @@ Another important prerequisite is to learn Machine Learning. If your not current
 
 See the [open issues](https://github.com/mhuzaifadev/deeplearningmasterclass/issues) for a list of proposed features (and known issues).
 The roadmap of this project is comprising over <b>THIRTEEN</b> sections.
-<ul>
-<li> <b>Introduction to Neural Networks</b><br>
-A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. </li> <br>
-<li>  <b>Tensorflow & Keras</b><br>
-TensorFlow is an open-source library developed by Google primarily for deep learning applications. It also supports traditional machine learning. </li> <br>  
-<li>  <b>PyTorch</b> <br>
+<table>
+  <tr>
+<td> <b>Introduction to Neural Networks</b><br>
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. </td> 
+    <td>
+      <img src="https://user-images.githubusercontent.com/29937202/46917329-7444ec80-cfe3-11e8-8e09-e213540f3c54.gif">
+    </td>
+  </tr>
+  <tr>
+    <br>
+<td>  <b>Tensorflow & Keras</b><br>
+TensorFlow is an open-source library developed by Google primarily for deep learning applications. It also supports traditional machine learning. </td> 
+    <td>
+      <img src = "https://user-images.githubusercontent.com/29937202/46917329-7444ec80-cfe3-11e8-8e09-e213540f3c54.gif">
+    </td> </tr>
+    <br>  
+<td>  <b>PyTorch</b> <br>
 PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).</li><br> 
 <li> <b>Convolutional Neural Network</b> <br>
 A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. Each neuron works in its own receptive field and is connected to other neurons in a way that they cover the entire visual field. </li><br> 
@@ -109,7 +120,8 @@ Generative Adversarial Networks, or GANs, are a deep-learning-based generative m
 <li> <b>Natural Language Processing</b><br>
 Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics, in its pursuit to fill the gap between human communication and computer understanding.
   </li> <br> 
-</ul>
+</tr>
+  </table>
 
 <!-- CONTRIBUTING -->
 ## Contributing

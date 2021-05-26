@@ -81,12 +81,13 @@ Another important prerequisite is to learn Machine Learning. If your not current
 
 See the [open issues](https://github.com/mhuzaifadev/deeplearningmasterclass/issues) for a list of proposed features (and known issues).
 The roadmap of this project is comprising over <b>THIRTEEN</b> sections.
+
 <table>
   <tr>
 <td> <b>Introduction to Neural Networks</b><br>
 A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. </td> 
     <td>
-      <img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/12/MSR_NeuralMemory_V5_1400x788.gif" height = 90>
+      <img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/12/MSR_NeuralMemory_V5_1400x788.gif"  width = 650>
     </td>
   </tr>
   <tr>
@@ -158,7 +159,7 @@ SSD is a single-shot detector. It has no delegated region proposal network and p
 <tr><td><b>Neural Style Transfer</b><br> 
 Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.  </td>
   <td>
-    <img src = "https://miro.medium.com/max/1200/1*XI3beonBnOwp-y5BwNOqCw.gif" height = 90>
+    <img src = "https://thumbs.gfycat.com/CarefulTameGoral-size_restricted.gif" height = 90>
   </td>
   </tr>
   <br>
@@ -175,7 +176,7 @@ An autoencoder is a type of artificial neural network used to learn efficient da
     <b>Generasive Adversial Networks</b><br>
 Generative Adversarial Networks, or GANs, are a deep-learning-based generative model. More generally, GANs are a model architecture for training a generative model, and it is most common to use deep learning models in this architecture. </td>
   <td>
-    <img src = "https://images.squarespace-cdn.com/content/v1/5caddc64ebfc7f56ecea3c28/1597057674877-5FUH261T25FK6SWTY4CM/ke17ZwdGBToddI8pDm48kKyb0vjvVqvUeF8Yo8mAlphZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEkqQQFruXjrjN5Odfq3eZoLb-Df2lEI3T8OUe7BLI0LDFvbuqF0GUInBxxtVhBOn4/Deepfake_example.gif" height = 90>
+    <img src = "https://learn.g2.com/hubfs/deepfakes.gif" height = 90>
   </td>
   </tr>
   <br> 
@@ -188,7 +189,10 @@ Natural language processing (NLP) is a branch of artificial intelligence that he
 </tr>
   </table>
 <br>
+
+
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.

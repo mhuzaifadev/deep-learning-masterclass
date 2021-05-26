@@ -80,7 +80,7 @@ Another important prerequisite is to learn Machine Learning. If your not current
 ## Roadmap
 
 See the [open issues](https://github.com/mhuzaifadev/deeplearningmasterclass/issues) for a list of proposed features (and known issues).
-The roadmap of this project is comprising over <b>THIRTEEN</b> sections.
+The roadmap of this project is comprising over <b>THIRTEEN</b> sections. <hr>
 
 <table>
   <tr>

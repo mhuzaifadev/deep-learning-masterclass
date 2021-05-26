@@ -77,55 +77,36 @@ Another important prerequisite is to learn Machine Learning. If your not current
 ## Roadmap
 
 See the [open issues](https://github.com/mhuzaifadev/deeplearningmasterclass/issues) for a list of proposed features (and known issues).
-The roadmap of this project is comprising over <b>FOUR</b> sections.
-
-* <b>Introduction to Neural Networks</b><br>
-      A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.<br>
-
-* <b>Tensorflow & Keras</b><br>
-      TensorFlow is an open-source library developed by Google primarily for deep learning applications. It also supports traditional machine learning.<br>
-      
-* <b>PyTorch</b> <br>
-      PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).<br>
-      
-* <b>Convolutional Neural Network</b> <br>
-      A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. Each neuron works in its own receptive field and is connected to other neurons in a way that they cover the entire visual field. <br>
-
-* <b>Recurrent Neural Network</b><br>
-      Recurrent neural networks (RNN) are the state of the art algorithm for sequential data and are used by Apple's Siri and and Google's voice search. It is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for machine learning problems that involve sequential data.
-<br>
-
-* <b>Self Organizing Maps</b><br>
-      A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, and is therefore a method to do dimensionality reduction.
-<br>
-
-* <b>Boltzman Machine</b><br>
-      A Boltzmann machine (also called stochastic Hopfield network with hidden units or Sherrington–Kirkpatrick model with external field or stochastic Ising-Lenz-Little model) is a type of stochastic recurrent neural network. It is a Markov random field.
-<br>
-
-* <b>Transfer Learning</b><br>
-      Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.  Common examples of transfer learning in deep learning. When to use transfer learning on your own predictive modeling problems.
-<br>
-
-* <b>Single Shot Detector</b><br>
-      SSD is a single-shot detector. It has no delegated region proposal network and predicts the boundary boxes and the classes directly from feature maps in one single pass. To improve accuracy, SSD introduces: small convolutional filters to predict object classes and offsets to default boundary boxes.
-<br>
-
-* <b>Neural Style Transfer</b><br>
-      Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
-<br>
-
-* <b>Autoencoders</b><br>
-      An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner. The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”.
-<br>
-
-* <b>Generasive Adversial Networks</b><br>
-      Generative Adversarial Networks, or GANs, are a deep-learning-based generative model. More generally, GANs are a model architecture for training a generative model, and it is most common to use deep learning models in this architecture.
-<br>
-
-* <b>Natural Language Processing</b><br>
-      Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics, in its pursuit to fill the gap between human communication and computer understanding.
-<br>
+The roadmap of this project is comprising over <b>THIRTEEN</b> sections.
+<ul>
+<li> <b>Introduction to Neural Networks</b><br>
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. </li> <br>
+<li>  <b>Tensorflow & Keras</b><br>
+TensorFlow is an open-source library developed by Google primarily for deep learning applications. It also supports traditional machine learning. </li> <br>  
+<li>  <b>PyTorch</b> <br>
+PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).</li><br> 
+<li> <b>Convolutional Neural Network</b> <br>
+A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. Each neuron works in its own receptive field and is connected to other neurons in a way that they cover the entire visual field. </li><br> 
+<li> <b>Recurrent Neural Network</b><br>
+Recurrent neural networks (RNN) are the state of the art algorithm for sequential data and are used by Apple's Siri and and Google's voice search. It is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for machine learning problems that involve sequential data.</li><br> 
+<li> <b>Self Organizing Maps</b><br>
+A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, and is therefore a method to do dimensionality reduction.</li><br> 
+<li> <b>Boltzman Machine</b><br>
+A Boltzmann machine (also called stochastic Hopfield network with hidden units or Sherrington–Kirkpatrick model with external field or stochastic Ising-Lenz-Little model) is a type of stochastic recurrent neural network. It is a Markov random field.</li><br> 
+<li> <b>Transfer Learning</b><br>
+Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.  Common examples of transfer learning in deep learning. When to use transfer learning on your own predictive modeling problems.</li><br> 
+<li> <b>Single Shot Detector</b><br>
+SSD is a single-shot detector. It has no delegated region proposal network and predicts the boundary boxes and the classes directly from feature maps in one single pass. To improve accuracy, SSD introduces: small convolutional filters to predict object classes and offsets to default boundary boxes.  </li><br>
+<li> <b>Neural Style Transfer</b><br> 
+Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.  </li><br>
+<li> <b>Autoencoders</b><br>
+An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner. The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”. </li> <br>  
+<li> <b>Generasive Adversial Networks</b><br>
+Generative Adversarial Networks, or GANs, are a deep-learning-based generative model. More generally, GANs are a model architecture for training a generative model, and it is most common to use deep learning models in this architecture. </li><br> 
+<li> <b>Natural Language Processing</b><br>
+Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics, in its pursuit to fill the gap between human communication and computer understanding.
+  </li> <br> 
+</ul>
 
 <!-- CONTRIBUTING -->
 ## Contributing

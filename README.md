@@ -27,16 +27,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<p align="justify">
 This project was originally initiated under the influence of Google Developer Student Clubs and Microsoft Learn Student Ambassadors - SSUET campus to teach more and more students about technology. Over the internet, there are great resources to learn Deep Learning, but what it lacks is the proper flow in their road map, which triggers the students to give up in the half way mostly.
 
 This project is created to let student have a quickest and easiest hands on journey with Deep Learning using Tensorflow & Pytorch Python3. However, currently notebook doesn't possess any Mathematical material, but we surely be digging on it with other experienced ML writers to help through out that process.
 
 The end goal of this repository is just 3 hours per day and only 90 days, and you will be best with Deep Learning, you may have never imagined.
-
+</p>
 
 ### Built With
 
+<p align="justify">
 The entire project (course) is focused on Python 3. (We recommend Python 3.6 to 3.8), following some famously required packages in Python. And the most important ingredient here is LOVE. 
 
 * [Python](https://www.python.org/)
@@ -44,7 +45,8 @@ The entire project (course) is focused on Python 3. (We recommend Python 3.6 to 
 * [Pytorch](https://pytorch.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Love](https://vilee.fi/eng/wp-content/uploads/2020/11/whatislove-960x640-1.jpg)
-
+</p>
+  
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -68,10 +70,11 @@ The other possible and easiest solution is to sign into your Google Account and 
 
 ### Prerequisites
 
+<p align="justify">
 Your system must meet the requirement of Windows 7 or equivalent with minimum of 3 to 4GB of memory available.
 
 Another important prerequisite is to learn Machine Learning. If your not currently good at it or doesn't even know a bit about it. So there's absolutely no need to be worrying about it. Head over to [Machine Learning Zero to Hero](https://www.github.com/mhuzaifadev/mlzero_to_hero)  Course, it will take you just 30 days to get best in Machine Learning. But believe me without it, learning Deep Learning is simply like learning how to fly a jet plane without learning to fly general plane.
-
+</p>
 
 <!-- ROADMAP -->
 ## Roadmap

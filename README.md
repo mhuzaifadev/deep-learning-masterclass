@@ -87,7 +87,7 @@ The roadmap of this project is comprising over <b>THIRTEEN</b> sections. <hr>
 <td> <b>Introduction to Neural Networks</b><br>
 A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. </td> 
     <td>
-      <img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/12/MSR_NeuralMemory_V5_1400x788.gif"   height = 90>
+      <img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/12/MSR_NeuralMemory_V5_1400x788.gif"   width = 150>
     </td>
   </tr>
   <tr>

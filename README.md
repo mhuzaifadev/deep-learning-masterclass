@@ -2,6 +2,9 @@
 
 <img src = "https://raw.githubusercontent.com/mhuzaifadev/deeplearningmasterclass/main/deeplearningmasterclass-01.png">
 
+
+
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -28,9 +31,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="justify">
-This project was originally initiated under the influence of Google Developer Student Clubs and Microsoft Learn Student Ambassadors - SSUET campus to teach more and more students about technology. Over the internet, there are great resources to learn Deep Learning, but what it lacks is the proper flow in their road map, which triggers the students to give up in the half way mostly.
+This project was originally initiated under the influence of Google Developer Student Clubs and Microsoft Learn Student Ambassadors - SSUET campus to teach more and more students about technology. Over the internet, there are great resources to learn Deep Learning, but what it lacks is the proper flow in their road map, which triggers the students to give up halfway mostly.
 
-This project is created to let student have a quickest and easiest hands on journey with Deep Learning using Tensorflow & Pytorch Python3. However, currently notebook doesn't possess any Mathematical material, but we surely be digging on it with other experienced ML writers to help through out that process.
+This project is created to let students have the quickest and easiest hands-on journey with Deep Learning using Tensorflow & Pytorch Python3. However, currently, the notebook doesn't possess any Mathematical material, but we surely are digging into it with other experienced ML writers to help throughout that process.
 
 The end goal of this repository is just 3 hours per day and only 90 days, and you will be best with Deep Learning, you may have never imagined.
 </p>
@@ -50,7 +53,7 @@ The entire project (course) is focused on Python 3. (We recommend Python 3.6 to 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Install [Python 3.8X](https://www.python.org/downloads/source/) in your local machine. Once done. Open terminal and run 
+Install [Python 3.8X](https://www.python.org/downloads/source/) on your local machine. Once done. Open the terminal and run 
  
   ```cd
   pip install jupyternotebook
@@ -65,15 +68,15 @@ Then reopen your termial in your desire directory, and run
   ```
 In that way, jupyter notebook will initiate its kernal and live on the local host.
 
-The other possible and easiest solution is to sign into your Google Account and hit https://colab.research.google.com . This will open Colab, an online Jupyter Notebook workspace by Google. All environments are already built in, you can directly start working on Colab.
+The other possible and easiest solution is to sign into your Google Account and hit https://colab.research.google.com . This will open Colab, an online Jupyter Notebook workspace by Google. All environments are already built-in, you can directly start working on Colab.
 
 
 ### Prerequisites
 
 <p align="justify">
-Your system must meet the requirement of Windows 7 or equivalent with minimum of 3 to 4GB of memory available.
+Your system must meet the requirement of Windows 7 or equivalent with a minimum of 3 to 4GB of memory available.
 
-Another important prerequisite is to learn Machine Learning. If your not currently good at it or doesn't even know a bit about it. So there's absolutely no need to be worrying about it. Head over to [Machine Learning Zero to Hero](https://www.github.com/mhuzaifadev/mlzero_to_hero)  Course, it will take you just 30 days to get best in Machine Learning. But believe me without it, learning Deep Learning is simply like learning how to fly a jet plane without learning to fly general plane.
+Another essential prerequisite is to learn Machine Learning. If you're not currently good at it or don't know much about it. So there's absolutely no need to be worrying about it. Head over to [Machine Learning Zero to Hero](https://www.github.com/mhuzaifadev/mlzero_to_hero)  Course, it will take 30 days to get the best in Machine Learning. But believe me, without it, learning Deep Learning is simply like learning how to fly a jet plane without learning to fly a general plane.
 </p>
 
 <!-- ROADMAP -->
@@ -100,7 +103,7 @@ TensorFlow is an open-source library developed by Google primarily for deep lear
     <br>
   <tr>
 <td>  <b>PyTorch</b> <br>
-PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).</td>
+PyTorch is an open-source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).</td>
   <td>
     <img src = "https://miro.medium.com/max/919/1*Z4L6D1RiQauGmB3TGK_wJg.gif" height = 90>
   </td>
@@ -116,7 +119,7 @@ A Convolutional Neural Network, also known as CNN or ConvNet, is a class of neur
 <tr> 
   <td>
     <b>Recurrent Neural Network</b><br>
-Recurrent neural networks (RNN) are the state of the art algorithm for sequential data and are used by Apple's Siri and and Google's voice search. It is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for machine learning problems that involve sequential data.</td>
+Recurrent neural networks (RNN) are the state-of-the-art algorithm for sequential data and are used by Apple's Siri and and Google's voice search. It is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for machine learning problems that involve sequential data.</td>
   <td>
     <img src = "https://miro.medium.com/max/960/1*TqcA9EIUF-DGGTBhIx_qbQ.gif" height = 90>
   </td>
@@ -125,7 +128,7 @@ Recurrent neural networks (RNN) are the state of the art algorithm for sequentia
 <tr> 
   <td>
     <b>Self Organizing Maps</b><br>
-A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, and is therefore a method to do dimensionality reduction.</td>
+A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, and is, therefore, a method to do dimensionality reduction.</td>
   <td>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TrainSOM.gif/220px-TrainSOM.gif" height = 90>
   </td>
@@ -134,7 +137,7 @@ A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of a
 <tr> 
   <td>
     <b>Boltzman Machine</b><br>
-A Boltzmann machine (also called stochastic Hopfield network with hidden units or Sherrington–Kirkpatrick model with external field or stochastic Ising-Lenz-Little model) is a type of stochastic recurrent neural network. It is a Markov random field.</td>
+A Boltzmann machine (also called a stochastic Hopfield network with hidden units or Sherrington–Kirkpatrick model with external field or stochastic Ising-Lenz-Little model) is a type of stochastic recurrent neural network. It is a Markov random field.</td>
   <td>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/7/7a/Boltzmannexamplev1.png" height = 90>
   </td>
@@ -150,7 +153,7 @@ Transfer learning is a machine learning method where a model developed for a tas
   </tr>
     <br> 
 <td> <b>Single Shot Detector</b><br>
-SSD is a single-shot detector. It has no delegated region proposal network and predicts the boundary boxes and the classes directly from feature maps in one single pass. To improve accuracy, SSD introduces: small convolutional filters to predict object classes and offsets to default boundary boxes.  </td>
+SSD is a single-shot detector. It has no delegated region proposal network and predicts the boundary boxes and the classes directly from feature maps in one single pass. To improve accuracy, SSD introduces small convolutional filters to predict object classes and offsets to default boundary boxes.  </td>
   <td>
     <img src = "https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/12/Sliding-window.gif" height = 90>
   </td>
@@ -195,7 +198,7 @@ Natural language processing (NLP) is a branch of artificial intelligence that he
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
